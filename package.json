@@ -1,0 +1,15 @@
+{
+  "name": "@cnpm/cookie-util",
+  "version": "1.0.1",
+  "description": "cookie的获取、增加、删除及中文字符解码功能",
+  "main": "index.js",
+  "scripts": {
+    "compress": "uglifyjs index.js -m -c -o dist/cookie-util.js"
+  },
+  "keywords": [
+    "cookie"
+  ],
+  "author": "huangxiaoli",
+  "license": "ISC",
+  "svn": "http://svn.chinaso365.com/svn/wljsb/f_fe/frontpackages/cookie_util"
+}
