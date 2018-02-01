@@ -10,7 +10,7 @@ import CookieUtil from '@cnpm/cookie-util';
 
 ### 普通引入方式
 
-`<script type="text/javascript" src="node_modules/@cnpm/cookie-util/dist/cookie-util.js">`
+`<script type="text/javascript" src="http://n3.static.pg0.cn/fp/cookie-util/dist/cookie-util.js">`
 
 
 ### AMD

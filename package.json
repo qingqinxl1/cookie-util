@@ -1,6 +1,6 @@
 {
   "name": "@cnpm/cookie-util",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "cookie的获取、增加、删除及中文字符解码功能",
   "main": "index.js",
   "scripts": {
